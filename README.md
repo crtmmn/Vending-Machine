@@ -57,3 +57,6 @@ This simple C++ program simulates a vending machine system that allows users to 
 7. Buy a product using the VendingMachine and update user information.
 8. Display updated user information.
 9. Display remaining products in the vending machine.
+
+## UML Diagram
+<img src="images/VendingMachineUML.PNG">
